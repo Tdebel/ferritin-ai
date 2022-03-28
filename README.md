@@ -15,4 +15,4 @@ A small script has been added in apply_model to apply the model to an excel file
 |- input_excel.xlsx
 ```
 
-The ferritine scores predicted by the model will be written to `output.xlsx`.
+Make sure that the excel file has the column names as depeicted above. The ferritine scores predicted by the model will be written to `output.xlsx`.
