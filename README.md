@@ -5,7 +5,8 @@ This git contains the code supporting the article "Automated prediction of low f
 This software is licensed under MIT license.
 
 # How to use
-The model requires the following parameters as input: ['SEX', 'AGE', 'HB', 'ERY', 'MCV', 'MCH', 'TRMB', 'LEU', 'CRP']
+The model requires the following parameters as input: ['SEX', 'AGE', 'HB', 'ERY', 'MCV', 'MCH', 'TRMB', 'LEU', 'CRP'].
+
 A small script has been added in apply_model to apply the model to an excel file; create the following folder structure:
 ```
 |- ferritine.py
