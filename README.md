@@ -11,8 +11,8 @@ A small script has been added in apply_model to apply the model to an excel file
 ```
 |- ferritine.py
 |- model
-  |- siemens_model.py # change the name in the script to roche if you want to use the other model
+  |- siemens_model.py # or put the roche model here
 |- input_excel.xlsx
 ```
 
-Make sure that the excel file has the column names as depeicted above. The ferritine scores predicted by the model will be written to `output.xlsx`.
+Make sure that the excel file has the column names as depicted above. There is a template excel file available in the `apply model` folder. The ferritine scores predicted by the model will be written to `output.xlsx`.
